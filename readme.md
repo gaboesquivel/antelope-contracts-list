@@ -329,6 +329,11 @@ https://github.com/xJonathanLEI/EOSafe
 An EOS contract for safe fund withdrawals with daily limits.    
 https://github.com/xJonathanLEI/eosatm  
 
+### aegis
+
+Patroneos smart contract.   
+https://github.com/EOSEssentials/Aegis   
+
 ### token time 
 
 EOSIO Token With Time Lock. Admin can transfer token to user anytime but user can transfer only when user have unlocked that token after 24 hour of first transfer between admin to user.    
