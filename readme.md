@@ -311,9 +311,13 @@ https://github.com/gravitt8460/eos_tolls
 
 ### stake for me
 
-
+An EOS smart contract for solving deadlocked account issue.   
 https://github.com/xJonathanLEI/stakeforme
 
+### proof of existence
+
+EOS Proof of Existence.  
+https://github.com/EOSArgentina/eosproofio  
 
 ### eosafe
 
@@ -340,8 +344,22 @@ https://github.com/mrbid/eosio-uber
 EOSIO Smart Contract for 1st and 2nd auction models.     
 https://github.com/mrbid/eosio-auctions 
   
+### eos sc security best practices
 
-  
+This document aims to provide some security guidelines for developers of EOS smart contracts and list analysis of some known contract vulnerabilities. 
+https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md 
+
+### eos known attacks
+
+Repository of EOS Smart Contract known attacks to help devs prevent known vulnerabilities in their contracts.   
+https://github.com/EOSArgentina/eos_known_attacks  
+
+
+Credits
+
+- https://github.com/kesar/eos-awesome-contracts 
+- https://github.com/abhi3700/My_Learning_EOS
+
 ---
 
 ## About EOS Costa Rica
