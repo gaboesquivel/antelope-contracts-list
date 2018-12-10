@@ -343,6 +343,11 @@ https://github.com/mrbid/eosio-uber
 
 EOSIO Smart Contract for 1st and 2nd auction models.     
 https://github.com/mrbid/eosio-auctions 
+
+### shine
+
+The Shine contract goal is to enable the implementation of a recognition system based on praise and votes. Person (i.e. account) broadcast a praise to all other members. Each member (i.e. account) can then vote for this particular praise.       
+https://github.com/eoscanada/shine/tree/master/contract 
   
 ### eos sc security best practices
 
