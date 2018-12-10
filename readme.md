@@ -364,6 +364,10 @@ https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/mast
 Repository of EOS Smart Contract known attacks to help devs prevent known vulnerabilities in their contracts.   
 https://github.com/EOSArgentina/eos_known_attacks  
 
+### gravatar cafe
+
+Smart Contract for Simple Gravatars.    
+https://github.com/eoscafe/gravatarcafe
 
 Credits
 
