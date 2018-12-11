@@ -356,7 +356,7 @@ https://github.com/eoscanada/shine/tree/master/contract
   
 ### eos sc security best practices
 
-This document aims to provide some security guidelines for developers of EOS smart contracts and list analysis of some known contract vulnerabilities. 
+This document aims to provide some security guidelines for developers of EOS smart contracts and list analysis of some known contract vulnerabilities.    
 https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md 
 
 ### eos known attacks
@@ -368,6 +368,11 @@ https://github.com/EOSArgentina/eos_known_attacks
 
 Smart Contract for Simple Gravatars.    
 https://github.com/eoscafe/gravatarcafe
+
+### eosmsg
+
+Simple messenger using eos network.   
+https://eosplace.github.io/eosmsg
 
 Credits
 
