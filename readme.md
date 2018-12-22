@@ -374,7 +374,14 @@ https://github.com/eoscafe/gravatarcafe
 Simple messenger using eos network.   
 https://eosplace.github.io/eosmsg
 
-Credits
+### merkle proof
+
+EOS smart contract to verify merkle proofs.   
+https://github.com/miguelmota/eos-merkle-proof/   
+
+
+
+**Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
 - https://github.com/abhi3700/My_Learning_EOS
