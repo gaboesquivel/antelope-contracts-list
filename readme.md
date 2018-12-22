@@ -7,6 +7,10 @@ A collection of open source EOS Smart Contracts.
 Smart contracts that provide some of the basic functions of the EOSIO blockchain.     
 https://github.com/EOSIO/eosio.contracts
 
+### telos contracts
+Smart contracts that provide some of the basic functions of the Telos blockchain.   
+https://github.com/Telos-Foundation/eosio.contracts
+
 ### elemental battles
 
 Elemental Battles Tutorial Lessons.  
