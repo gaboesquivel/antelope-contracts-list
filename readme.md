@@ -383,6 +383,10 @@ https://eosplace.github.io/eosmsg
 EOS smart contract to verify merkle proofs.   
 https://github.com/miguelmota/eos-merkle-proof/   
 
+### ducor eos
+
+Ducatur oracles eos smart contract.    
+https://github.com/DucaturFw/ducor-eos.
 
 
 **Credits**
