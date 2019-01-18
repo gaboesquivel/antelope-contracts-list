@@ -388,6 +388,10 @@ https://github.com/miguelmota/eos-merkle-proof/
 Ducatur oracles eos smart contract.    
 https://github.com/DucaturFw/ducor-eos.
 
+### eos contract example
+
+eos contracts example. check out erase contract
+https://github.com/clockknock/eos-contract-example
 
 **Credits**
 
