@@ -397,6 +397,10 @@ https://github.com/clockknock/eos-contract-example
 eos contract test simple framework on local chain instance.  
 https://github.com/cryptokylin/eos_contract_test
 
+## squeakr  
+Squeakr is a demo application designed to showcase the power of privEOS. It is basically a simple form of Twitter on the blockchain, but all tweets are private. Only approved followers can see the tweets. The app pays for any privEOS fees. The service is free for the users.   
+https://github.com/rawrat/squeakr
+
 
 **Credits**
 
