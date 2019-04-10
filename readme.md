@@ -401,6 +401,11 @@ https://github.com/cryptokylin/eos_contract_test
 Squeakr is a demo application designed to showcase the power of privEOS. It is basically a simple form of Twitter on the blockchain, but all tweets are private. Only approved followers can see the tweets. The app pays for any privEOS fees. The service is free for the users.   
 https://github.com/rawrat/squeakr
 
+## eos encrypt
+Allows to encrypt & decypt a message with an EOS key pair using AES shared key encryption mechanism.  
+Decryption is achieved by combining the receiver's private key and the sender's public key to create the private key necessary to decrypt the message.   
+https://github.com/EOS-Nation/eos-encrypt
+
 
 **Credits**
 
