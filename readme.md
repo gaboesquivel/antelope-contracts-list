@@ -411,16 +411,3 @@ https://github.com/EOS-Nation/eos-encrypt
 
 - https://github.com/kesar/eos-awesome-contracts 
 - https://github.com/abhi3700/My_Learning_EOS
-
----
-
-## About EOS Costa Rica
-<p align="center">
-	<a href="https://eoscostarica.io">
-		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="300">
-	</a>
-</p>
-
-EOS Costa Rica is an independently-owned, self-funded, bare-metal genesis block producer that provides stable and secure infrastructure for EOSIO blockchains. We support open source software for our community while offering enterprise solutions and custom smart contract development for our clients.
-
-[eoscostarica.io](https://eoscostarica.io)
