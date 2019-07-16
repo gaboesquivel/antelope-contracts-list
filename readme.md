@@ -412,6 +412,12 @@ Delayed transaction.
 https://github.com/ethgamble/eosdelay    
 
 
+## eos scrow
+
+Universal EOS escrow contract
+https://github.com/eos-geneva/escrowescrow
+
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
