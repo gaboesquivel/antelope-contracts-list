@@ -414,7 +414,7 @@ https://github.com/ethgamble/eosdelay
 
 ## eos scrow
 
-Universal EOS escrow contract
+Universal EOS escrow contract .  
 https://github.com/eos-geneva/escrowescrow
 
 
