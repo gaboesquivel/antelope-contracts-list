@@ -16,7 +16,7 @@
 </p>
 
 
-# EOS Smart Contracts
+# EOSIO Smart Contracts Collection
 
 A collection of open source EOS Smart Contracts.
 
