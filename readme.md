@@ -432,8 +432,13 @@ https://github.com/ethgamble/eosdelay
 
 ## eos scrow
 
-Universal EOS escrow contract .  
+Universal EOS escrow contract.  
 https://github.com/eos-geneva/escrowescrow
+
+## eos lost
+
+Contract to allow genesis account holders on EOS to reset a lost key.
+https://github.com/eosdac/eosio.lost
 
 
 **Credits**
