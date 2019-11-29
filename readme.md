@@ -451,13 +451,11 @@ https://github.com/eosdac/eosio.lost
 
 Read the [contributing guidelines](https://developers.blockmatic.io) for details.
 
----
-
 ## Blockmatic
 
-Blockmatic is building robust ecosystem of people and tools for development of decentralized applications (dApps) and fintech solutions.
+Blockmatic is building robust ecosystem of people and tools for development of decentralized applications.
 
-[blockmatic.io](https://blockmatic.io)  
+[blockmatic.io](https://blockmatic.io)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -491,5 +489,3 @@ Blockmatic is building robust ecosystem of people and tools for development of d
 [3]: http://www.github.com/blockmatic
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
