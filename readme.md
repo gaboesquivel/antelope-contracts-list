@@ -460,6 +460,11 @@ https://github.com/cc32d9/eos.watchdoggiee
 DApp for creating your own EOS account easily.
 https://github.com/Dappub/signupeoseos
 
+## eosdt
+
+Decentralized EOS-backed stablecoin.
+https://github.com/equilibrium-eosdt/eosdt
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
