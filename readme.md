@@ -475,6 +475,11 @@ https://github.com/EOSVR/sidechain
 EOS DAO
 https://github.com/michaeljyeates/eosdao-contracts
 
+## transfer filter
+
+On EOS, incoming transfers can have rules applied to them. Exchanges and accounts can enforce their memo fields to stop transfers that don't enter the correct details on memo for example.
+https://github.com/eosauthority/incoming-transfer-rules
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
