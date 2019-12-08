@@ -465,6 +465,11 @@ https://github.com/Dappub/signupeoseos
 Decentralized EOS-backed stablecoin.
 https://github.com/equilibrium-eosdt/eosdt
 
+## sidechain
+
+EOSVR sidechain solution.
+https://github.com/EOSVR/sidechain
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
