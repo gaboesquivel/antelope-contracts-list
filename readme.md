@@ -500,6 +500,16 @@ https://github.com/EOS-Nation/light-kyc-identity-report
 Blocktivity EOSIO Stats contract.
 https://github.com/EOS-Nation/blocktivity-eosio-stats
 
+## cex deposit
+
+CEX Deposit - Handles incoming EOS token transfers to Centralized Exchange deposit account.
+https://github.com/EOS-Nation/cex-deposit
+
+
+## nation eos wps
+
+EOSIO WPS.
+https://github.com/EOS-Nation/eosio-wps
 
 **Credits**
 
