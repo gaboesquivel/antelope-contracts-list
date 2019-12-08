@@ -445,6 +445,11 @@ https://github.com/eosdac/eosio.lost
 KolobokGame EOS contract, example using SimpleAssets and SimpleMarket
 https://github.com/CryptoLions/KolobokGame-Contract
 
+## eos api directory
+
+This is an EOS smart contract that holds a catalog of various infrastructure APIs, such as history or account status APIs.
+https://github.com/cc32d9/eos.apidirectory
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
