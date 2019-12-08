@@ -480,6 +480,11 @@ https://github.com/michaeljyeates/eosdao-contracts
 On EOS, incoming transfers can have rules applied to them. Exchanges and accounts can enforce their memo fields to stop transfers that don't enter the correct details on memo for example.
 https://github.com/eosauthority/incoming-transfer-rules
 
+## eosio tutorials
+
+Short examples of EOSIO smart contract development.
+https://github.com/cc32d9/eosio.tutorials
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
