@@ -470,6 +470,11 @@ https://github.com/equilibrium-eosdt/eosdt
 EOSVR sidechain solution.
 https://github.com/EOSVR/sidechain
 
+## eosdao
+
+EOS DAO
+https://github.com/michaeljyeates/eosdao-contracts
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
