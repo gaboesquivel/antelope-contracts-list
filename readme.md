@@ -495,6 +495,11 @@ https://github.com/chintai-platform/chexchexchex
 Light KYC Identity Report - EOSIO Smart Contract .
 https://github.com/EOS-Nation/light-kyc-identity-report
 
+## blocktivity eosio stats
+
+Blocktivity EOSIO Stats contract.
+https://github.com/EOS-Nation/blocktivity-eosio-stats
+
 
 **Credits**
 
