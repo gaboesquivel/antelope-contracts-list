@@ -485,6 +485,11 @@ https://github.com/eosauthority/incoming-transfer-rules
 Short examples of EOSIO smart contract development.
 https://github.com/cc32d9/eosio.tutorials
 
+## chexchexchex
+
+Chex token.
+https://github.com/chintai-platform/chexchexchex
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
