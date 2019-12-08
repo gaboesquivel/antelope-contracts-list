@@ -490,6 +490,12 @@ https://github.com/cc32d9/eosio.tutorials
 Chex token.
 https://github.com/chintai-platform/chexchexchex
 
+## light kyc contract
+
+Light KYC Identity Report - EOSIO Smart Contract .
+https://github.com/EOS-Nation/light-kyc-identity-report
+
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
