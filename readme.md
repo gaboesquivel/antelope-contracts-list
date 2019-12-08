@@ -450,6 +450,11 @@ https://github.com/CryptoLions/KolobokGame-Contract
 This is an EOS smart contract that holds a catalog of various infrastructure APIs, such as history or account status APIs.
 https://github.com/cc32d9/eos.apidirectory
 
+## watchdoggie
+
+This is a simple contract that helps verifying that the watch script is monitoring the network and sending notifications.
+https://github.com/cc32d9/eos.watchdoggiee
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
