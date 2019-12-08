@@ -455,6 +455,11 @@ https://github.com/cc32d9/eos.apidirectory
 This is a simple contract that helps verifying that the watch script is monitoring the network and sending notifications.
 https://github.com/cc32d9/eos.watchdoggiee
 
+## signupeoseos
+
+DApp for creating your own EOS account easily.
+https://github.com/Dappub/signupeoseos
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
