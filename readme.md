@@ -440,6 +440,10 @@ https://github.com/eos-geneva/escrowescrow
 Contract to allow genesis account holders on EOS to reset a lost key.
 https://github.com/eosdac/eosio.lost
 
+## kolob game
+
+KolobokGame EOS contract, example using SimpleAssets and SimpleMarket
+https://github.com/CryptoLions/KolobokGame-Contract
 
 **Credits**
 
