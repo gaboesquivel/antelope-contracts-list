@@ -467,42 +467,42 @@ https://github.com/equilibrium-eosdt/eosdt
 
 ## sidechain
 
-EOSVR sidechain solution.
+EOSVR sidechain solution.  
 https://github.com/EOSVR/sidechain
 
 ## eosdao
 
-EOS DAO
+EOS DAO .  
 https://github.com/michaeljyeates/eosdao-contracts
 
 ## transfer filter
 
-On EOS, incoming transfers can have rules applied to them. Exchanges and accounts can enforce their memo fields to stop transfers that don't enter the correct details on memo for example.
+On EOS, incoming transfers can have rules applied to them. Exchanges and accounts can enforce their memo fields to stop transfers that don't enter the correct details on memo for example.   
 https://github.com/eosauthority/incoming-transfer-rules
 
 ## eosio tutorials
 
-Short examples of EOSIO smart contract development.
+Short examples of EOSIO smart contract development.   
 https://github.com/cc32d9/eosio.tutorials
 
 ## chexchexchex
 
-Chex token.
+Chex token.   
 https://github.com/chintai-platform/chexchexchex
 
 ## light kyc contract
 
-Light KYC Identity Report - EOSIO Smart Contract .
+Light KYC Identity Report - EOSIO Smart Contract .   
 https://github.com/EOS-Nation/light-kyc-identity-report
 
 ## blocktivity eosio stats
 
-Blocktivity EOSIO Stats contract.
+Blocktivity EOSIO Stats contract.   
 https://github.com/EOS-Nation/blocktivity-eosio-stats
 
 ## cex deposit
 
-CEX Deposit - Handles incoming EOS token transfers to Centralized Exchange deposit account.
+CEX Deposit - Handles incoming EOS token transfers to Centralized Exchange deposit account.   
 https://github.com/EOS-Nation/cex-deposit
 
 
