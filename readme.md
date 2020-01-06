@@ -79,6 +79,11 @@ https://github.com/MonsterEOS/monstereos/tree/master/services/eos-dev/contracts/
 RPG game on the eos blockchain.    
 https://github.com/bada-studio/knights_contract
 
+### lock timer
+
+EOS smart contract that allows you to lock EOS for a certain amount of time and then they will be automaticaly released to the receiver that you want including you.
+https://github.com/vedamire/locktimer
+
 ### infiniverse
 
 Infiniverse is an augmented reality digital world running on the EOS blockchain.    
