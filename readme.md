@@ -6,7 +6,6 @@
   <a href="https://developers.blockmatic.io">
 		<img src="https://img.shields.io/badge/code%20style-blockmatic-brightgreen.svg" alt="Blockmatic Standard">
 	</a>
-	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
 	<a href="https://twitter.com/intent/follow?screen_name=blockmatic_io">
 		<img src="https://img.shields.io/twitter/follow/blockmatic_io.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
@@ -43,6 +42,11 @@ https://github.com/MitchPierias/Advanced-EOS-Examples
 
 A simple forum and voting dapp for EOSIO blockchains.  
 https://github.com/eoscanada/eosio.forum.
+
+### eosio.delay
+
+Support for delayed transactions has been deprecated and we need a way to support protocol-level enforced delays
+https://github.com/eosdac/eosio.delay
 
 ### eos stable coin
 
