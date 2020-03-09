@@ -244,6 +244,11 @@ https://github.com/eosdac/dacservice
 eosDAC multi-signature proposal contract management.    
 https://github.com/eosdac/dacmultisigs
 
+### decentral bank
+
+A blockchain platform for building algorithmic stablecoins
+https://github.com/decentralbanknetwork/bank.contracts/
+
 ### eospace
 
 EOS Contracts open sourced by EOSpace.   
