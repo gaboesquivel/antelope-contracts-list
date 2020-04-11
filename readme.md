@@ -158,6 +158,12 @@ https://github.com/CodeMan-lol/exchange
 Smart contract for onchain decentralised exchange for eosio.tokens  
 https://github.com/Dylan-Phoon/Eostrex-Smart-Contract 
 
+### telos vesting
+
+A Telos/EOS vesting contract where tokens can be transfered to other accounts who can then only withdraw them after a specified amount of time has passed.
+
+https://github.com/airdropsdac/telos-vesting-contract
+
 ### ram token 
 
 EOS RAMtoken smart contract.  
