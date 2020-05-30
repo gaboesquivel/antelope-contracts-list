@@ -531,6 +531,10 @@ https://github.com/EOS-Nation/cex-deposit
 EOSIO WPS.
 https://github.com/EOS-Nation/eosio-wps
 
+## eosio vpaysplit
+Split block producer vote rewards to multiple accounts on claim. 
+https://github.com/AlohaEOS/eosio-vpaysplit
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts 
