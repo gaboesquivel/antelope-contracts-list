@@ -1,20 +1,7 @@
-<p align="center">
-	</a>
-	<a href="https://git.io/col">
-		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
-	</a>
-  <a href="https://developers.blockmatic.io">
-		<img src="https://img.shields.io/badge/code%20style-blockmatic-brightgreen.svg" alt="Blockmatic Standard">
-	</a>
-	<a href="https://twitter.com/intent/follow?screen_name=blockmatic_io">
-		<img src="https://img.shields.io/twitter/follow/blockmatic_io.svg?style=social&logo=twitter" alt="Follow on Twitter" />
-	</a>
-	<a href="https://t.me/blockmatic">
-		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
-	</a>
-</p>
 
 # EOSIO Smart Contracts Collection
+
+
 
 A collection of open source EOS Smart Contracts.
 
