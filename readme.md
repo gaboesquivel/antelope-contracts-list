@@ -426,108 +426,103 @@ https://github.com/DucaturFw/ducor-eos.
 eos contracts example. check out erase contract.  
 https://github.com/clockknock/eos-contract-example
 
-## eos contract test
+### eos contract test
 
 eos contract test simple framework on local chain instance.  
 https://github.com/cryptokylin/eos_contract_test
 
-## squeakr
+### squeakr
 
 Squeakr is a demo application designed to showcase the power of privEOS. It is basically a simple form of Twitter on the blockchain, but all tweets are private. Only approved followers can see the tweets. The app pays for any privEOS fees. The service is free for the users.  
 https://github.com/rawrat/squeakr
 
-## eos encrypt
+### eos encrypt
 
 Allows to encrypt & decypt a message with an EOS key pair using AES shared key encryption mechanism.  
 Decryption is achieved by combining the receiver's private key and the sender's public key to create the private key necessary to decrypt the message.  
 https://github.com/EOS-Nation/eos-encrypt
 
-## eos delay
+### eos delay
 
 Delayed transaction.  
 https://github.com/ethgamble/eosdelay
 
-## eos scrow
+### eos scrow
 
 Universal EOS escrow contract.  
 https://github.com/eos-geneva/escrowescrow
 
-## eos lost
+### eos lost
 
 Contract to allow genesis account holders on EOS to reset a lost key.  
 https://github.com/eosdac/eosio.lost
 
-## kolob game
+### kolob game
 
 KolobokGame EOS contract, example using SimpleAssets and SimpleMarket.  
 https://github.com/CryptoLions/KolobokGame-Contract
 
-## eos api directory
+### eos api directory
 
 This is an EOS smart contract that holds a catalog of various infrastructure APIs, such as history or account status APIs.
 https://github.com/cc32d9/eos.apidirectory
 
-## watchdoggie
+### watchdoggie
 
 This is a simple contract that helps verifying that the watch script is monitoring the network and sending notifications.
 https://github.com/cc32d9/eos.watchdoggiee
 
-## signupeoseos
+### signupeoseos
 
 DApp for creating your own EOS account easily.  
 https://github.com/Dappub/signupeoseos
 
-## eosdt
+### eosdt
 
 Decentralized EOS-backed stable coin.  
 https://github.com/equilibrium-eosdt/eosdt
 
-## sidechain
-
-EOSVR sidechain solution.  
-https://github.com/EOSVR/sidechain
-
-## eosdao
+### eosdao
 
 EOS DAO .  
 https://github.com/michaeljyeates/eosdao-contracts
 
-## transfer filter
+### transfer filter
 
 On EOS, incoming transfers can have rules applied to them. Exchanges and accounts can enforce their memo fields to stop transfers that don't enter the correct details on memo for example.  
 https://github.com/eosauthority/incoming-transfer-rules
 
-## eosio tutorials
+### eosio tutorials
 
 Short examples of EOSIO smart contract development.  
 https://github.com/cc32d9/eosio.tutorials
 
-## chexchexchex
+### chexchexchex
 
 Chex token.  
 https://github.com/chintai-platform/chexchexchex
 
-## light kyc contract
+### light kyc contract
 
 Light KYC Identity Report - EOSIO Smart Contract .  
 https://github.com/EOS-Nation/light-kyc-identity-report
 
-## blocktivity eosio stats
+### blocktivity eosio stats
 
 Blocktivity EOSIO Stats contract.  
 https://github.com/EOS-Nation/blocktivity-eosio-stats
 
-## cex deposit
+### cex deposit
 
 CEX Deposit - Handles incoming EOS token transfers to Centralized Exchange deposit account.  
 https://github.com/EOS-Nation/cex-deposit
 
-## nation eos wps
+### nation eos wps
 
 EOSIO WPS.  
 https://github.com/EOS-Nation/eosio-wps
 
-## eosio vpaysplit
+### eosio vpaysplit
 
 Split block producer vote rewards to multiple accounts on claim.  
 https://github.com/AlohaEOS/eosio-vpaysplit
