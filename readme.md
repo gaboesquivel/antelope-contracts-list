@@ -515,7 +515,7 @@ A contract for paying out expenses and salaries on chain.
 https://github.com/PhillipHamnett/ExpensesSmartContract
 
 ### atomic assets
-Smart contract of the AtomicAssets standard.
+Smart contract of the AtomicAssets standard.    
 https://github.com/pinknetworkx/atomicassets-contract
 
 **Credits**
