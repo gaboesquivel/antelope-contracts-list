@@ -383,11 +383,6 @@ https://github.com/eoscanada/shine/tree/master/contract
 This document aims to provide some security guidelines for developers of EOS smart contracts and list analysis of some known contract vulnerabilities.  
 https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md
 
-### eos known attacks
-
-Repository of EOS Smart Contract known attacks to help devs prevent known vulnerabilities in their contracts.  
-https://github.com/EOSArgentina/eos_known_attacks
-
 ### gravatar cafe
 
 Smart Contract for Simple Gravatars.  
