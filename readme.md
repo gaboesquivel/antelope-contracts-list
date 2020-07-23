@@ -509,6 +509,11 @@ https://github.com/EOS-Nation/eosio-wps
 Split block producer vote rewards to multiple accounts on claim.  
 https://github.com/AlohaEOS/eosio-vpaysplit
 
+### expenses smart contracts
+
+A contract for paying out expenses and salaries on chain.    
+https://github.com/PhillipHamnett/ExpensesSmartContract
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts
