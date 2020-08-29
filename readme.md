@@ -90,10 +90,10 @@ https://github.com/eosonic/EOSBank
 A smart contract to enable CPU&NET leasing on EOS.  
 https://github.com/EOSLaoMao/BankofStaked-CE
 
-### the blacklist
+### stableex
 
-Blacklist smart contract for EOS Community. This contract is designed to be used both for ECAF and for active Block Producers on EOS.
-https://github.com/EOSLaoMao/theBlacklist
+Defibox and more.  
+https://github.com/stableex
 
 ### eos guardian
 
