@@ -518,6 +518,10 @@ https://github.com/PhillipHamnett/ExpensesSmartContract
 Smart contract of the AtomicAssets standard.    
 https://github.com/pinknetworkx/atomicassets-contract
 
+### cambiatus
+Cambiatus EOSIO Smart Contracts
+https://github.com/cambiatus/contracts
+
 **Credits**
 
 - https://github.com/kesar/eos-awesome-contracts
