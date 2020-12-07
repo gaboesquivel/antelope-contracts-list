@@ -25,6 +25,11 @@ https://github.com/EOSIO/eosio-card-game-repo
 A series of EOS contract development examples.  
 https://github.com/MitchPierias/Advanced-EOS-Examples
 
+### stableex
+
+Building secure & reliable financial blockchain instruments.  
+https://github.com/stableex
+
 ### eosio.forum
 
 A simple forum and voting dapp for EOSIO blockchains.  
