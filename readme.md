@@ -30,6 +30,11 @@ https://github.com/MitchPierias/Advanced-EOS-Examples
 Building secure & reliable financial blockchain instruments.  
 https://github.com/stableex
 
+### eos payout
+
+Automated payments on an EOSIO.
+https://github.com/cc32d9/eosio_payout  
+
 ### eosio.forum
 
 A simple forum and voting dapp for EOSIO blockchains.  
@@ -531,10 +536,6 @@ https://github.com/cambiatus/contracts
 
 - https://github.com/kesar/eos-awesome-contracts
 - https://github.com/abhi3700/My_Learning_EOS
-
-## Contributing
-
-Read the [contributing guidelines](https://developers.blockmatic.io) for details.
 
 ## Blockmatic
 
