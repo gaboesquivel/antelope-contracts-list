@@ -35,6 +35,11 @@ https://github.com/stableex
 Automated payments on an EOSIO.
 https://github.com/cc32d9/eosio_payout  
 
+### hypha dao
+
+Hypha Decentralized Organizations. 
+https://github.com/hypha-dao
+
 ### eosio.forum
 
 A simple forum and voting dapp for EOSIO blockchains.  
