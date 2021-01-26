@@ -32,12 +32,12 @@ https://github.com/stableex
 
 ### eos payout
 
-Automated payments on an EOSIO.
+Automated payments on an EOSIO.   
 https://github.com/cc32d9/eosio_payout  
 
 ### hypha dao
 
-Hypha Decentralized Organizations. 
+Hypha Decentralized Organizations.    
 https://github.com/hypha-dao
 
 ### eosio.forum
