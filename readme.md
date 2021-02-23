@@ -45,6 +45,11 @@ https://github.com/hypha-dao
 Vigor Protocol.   
 https://github.com/vigorstablecoin 
 
+### dapp acccount sample
+
+This is a simple example of a subscriber contract which is using liquidApps services to achieve virtual account functionalities.    
+https://github.com/investingwad/dappaccountsample
+
 ### eosio.forum
 
 A simple forum and voting dapp for EOSIO blockchains.  
