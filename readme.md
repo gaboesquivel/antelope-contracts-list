@@ -1,9 +1,8 @@
 
-# EOSIO Smart Contracts Collection
+# Antilope Smart Contracts Collection
 
 
-
-A collection of open source EOS Smart Contracts.
+A collection of open source Antilope Smart Contracts.
 
 ### eosio contracts
 
