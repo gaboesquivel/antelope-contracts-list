@@ -1,8 +1,8 @@
 
-# Antilope Smart Contracts Collection
+# Antelope Smart Contracts Collection
 
 
-A collection of open source Antilope Smart Contracts.
+A collection of open source Antelope Smart Contracts.
 
 ### eosio contracts
 
